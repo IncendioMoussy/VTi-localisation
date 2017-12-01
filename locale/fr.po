@@ -18835,43 +18835,43 @@ msgid "Update from Feed"
 msgstr ""
 
 msgid "Upgrade all Packages"
-msgstr ""
+msgstr "Mettre à jour tous les paquets"
 
 msgid "Include short description"
-msgstr ""
+msgstr "Inclure une description étendue"
 
 msgid "Include extended description"
 msgstr ""
 
 msgid "Movie search"
-msgstr ""
+msgstr "Recherche de film"
 
 msgid "START TYPING"
-msgstr ""
+msgstr "COMMENCER À ÉCRIRE"
 
 msgid "Update movie database automatically in Standby"
-msgstr ""
+msgstr "Mettre à jour la base de données de films automatiquement en mode veille"
 
 msgid "Edit Tags"
-msgstr ""
+msgstr "Editer l'étiquette "
 
 msgid "edit tags"
-msgstr ""
+msgstr "editer l'étiquette "
 
 msgid "Select IPK File for Upload"
-msgstr ""
+msgstr "sélectionnez le fichier IPK pour le téléchargement"
 
 msgid "Uploaded Files"
-msgstr ""
+msgstr "Télécharger le fichier"
 
 msgid "Upload package"
-msgstr ""
+msgstr "Télécharger le paquet"
 
 msgid "Upload File Error"
-msgstr ""
+msgstr "Erreure de téléchargement "
 
 msgid "Allow IPK Upload"
-msgstr ""
+msgstr "Autoriser le téléchargement IPK"
 
 msgid "Full remote"
-msgstr ""
+msgstr "Télécommande complète"
